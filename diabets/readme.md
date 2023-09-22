@@ -9,7 +9,7 @@
 `diabets/data/raw/diabetes_test_info.csv` - датасет для тестирования, инфа о пациенте  
 
 ## **Задача**
-- **Данные**: таблицы с информацией о пациенте (age,height,weight,gender,cholesterol,gluc,smoke,alco,active,pressure,diabetes), 
+- **Данные**: таблицы с информацией о пациенте (age,height,weight,gender,cholesterol,gluc,smoke,alco,active,pressure,diabetes,ket), 
 id - идентификатор пациента.    
 - **Таргет**: колонка `diabetes` - факт наличия диабета у пациента.      
 - **Метрика**: `f1_score`.     
